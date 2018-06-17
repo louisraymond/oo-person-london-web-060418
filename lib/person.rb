@@ -21,6 +21,6 @@ class Person
     else
     @happiness=happiness
   end
-end
+ end
       
 end
