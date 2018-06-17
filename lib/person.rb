@@ -6,7 +6,7 @@ class Person
     @name=name
     @bank_account=25
     @happiness=8
-    @hygiene_points=8
+    @hygiene=8
   end
   
   MIN=0
