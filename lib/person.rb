@@ -33,3 +33,4 @@ class Person
     @hygiene=hygiene
   end
 end
+end
