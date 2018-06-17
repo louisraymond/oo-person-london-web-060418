@@ -22,5 +22,6 @@ class Person
     @happiness=happiness
   end
  end
-      
+  
+  def hygiene=(hygiene)
 end
