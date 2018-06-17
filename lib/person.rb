@@ -34,5 +34,14 @@ class Person
   end
 end
 
-def happiness?
+def happy?
+  if @happiness>7
+   return true
+ else 
+   return false
+ end
+
+end
+ 
+ 
 end
