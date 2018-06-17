@@ -24,4 +24,12 @@ class Person
  end
   
   def hygiene=(hygiene)
+     @happiness=happiness
+    if @happiness>MAX
+      @happiness=MAX
+    elsif @happiness<MIN
+    @happiness=MIN
+    else
+    @happiness=happiness
+  end
 end
