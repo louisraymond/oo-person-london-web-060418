@@ -33,4 +33,6 @@ class Person
     @hygiene=hygiene
   end
 end
+
+def happiness?
 end
